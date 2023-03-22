@@ -1,0 +1,2 @@
+Use pipreqs in command line for a specific folder to create a list of
+the required packages for that folder. pip install pipreqs beforehand.
